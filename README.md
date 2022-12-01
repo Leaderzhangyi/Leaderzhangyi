@@ -37,10 +37,3 @@ Here are some ideas to get you started:
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ubuntu.svg" />
 <p>
 
-
-
-
-<p align="center">
-<a href="https://twitter.com/kangvcar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kangvcar" height="20" width="20" /></a>
-</p>
-
