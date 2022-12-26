@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p>
 
 <h1 align="center">Hi 👋, I'm Leaderzhangyi</h1>
-<h3 align="center">A passionate developer from china</h3>
+<h3 align="center">A passionate developer from China</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Leaderzhangyi" alt="kangvcar" /> </p>
 
 <p align="center">
