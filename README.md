@@ -15,7 +15,7 @@
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 <!-- ![](https://img.shields.io/badge/-LeetCode-12B9A1?style=flat-square&logo=LeetCode&logoColor=FFA116) -->
 
-- 📫 How to reach me: <a href="https://blog.csdn.net/qq_42137895?spm=1011.2415.3001.5343"><img src="https://img.shields.io/badge/MyBlog-博客-blue"></a>&emsp;
+- 📫 How to reach me: zinkcas@163.com
 <!-- <a href="https://twitter.com/inariindream/"><img src="https://img.shields.io/badge/twitter-%E6%8E%A8%E7%89%B9-blue"></a>&emsp;
 <a href="https://steamcommunity.com/profiles/76561198813007792/"><img src="https://img.shields.io/badge/Steam-个人资料-003472"></a>&emsp;
  -->
